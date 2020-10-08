@@ -1,0 +1,9 @@
+#elem{
+    height: 450px;
+    width :600px;
+    border: 2px solid blueviolet;
+    position:absolute;
+    top:50px;
+    left:50px
+}
+
